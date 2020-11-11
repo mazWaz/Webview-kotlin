@@ -1,0 +1,31 @@
+
+body {
+	background-color: #52a73d
+}
+
+body {
+	margin: 2.5em 0 0;
+	font-family: sans-serif;
+	text-align: center
+}
+
+a,
+a:active,
+a:visited {
+	text-decoration: none;
+	font-family: segoe ui;
+	color: #fff;
+}
+
+h3 {
+	color: #fff;
+	font-size: 1em;
+	font-weight: 500;
+}
+
+.pale {
+	background-color: #479335;
+	padding: 1em 0;
+	color: #fff;
+}
+
